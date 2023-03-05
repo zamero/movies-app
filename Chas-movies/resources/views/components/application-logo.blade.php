@@ -1,0 +1,1 @@
+<img src="https://chasacademy.se/wp-content/uploads/2020/12/ca-emblem-white.svg" class="h-6 mr-3 sm:h-10" alt="Flowbite Logo" />
